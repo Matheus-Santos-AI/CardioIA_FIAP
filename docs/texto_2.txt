@@ -1,0 +1,115 @@
+Tempo de chegada do paciente com infarto agudo do miocárdio em unidade de emergência
+Time of arrival of patients with acute myocardial infarction to the emergency department
+
+Autores: Alessandra Soler Bastos; Lúcia Marinilza Beccaria; Ligia Márcia Contrin; Cláudia Bernardi Cesarino
+Rev Bras Cir Cardiovasc 2012;27(3):411-8 — ARTIGO ORIGINAL
+
+Trabalho realizado na Faculdade de Medicina de São José do Rio Preto (FAMERP), São José do Rio Preto, SP, Brasil.
+Artigo recebido em 18 de janeiro de 2012. Artigo aprovado em 16 de julho de 2012.
+DOI: 10.5935/1678-9741.20120070
+
+RESUMO
+
+Objetivo: Caracterizar o perfil das pessoas com infarto agudo do miocárdio (IAM) atendidas em um serviço de emergência e verificar o tempo de chegada (delta T). Identificar como o paciente foi transportado e correlacionar o delta T com o tratamento e prognóstico do mesmo.
+
+Métodos: Pesquisa transversal, incluindo 52 pacientes admitidos na Unidade de Emergência de um Hospital de Ensino com diagnóstico de IAM, no período de julho a dezembro de 2010. A coleta de dados foi realizada por meio do prontuário e entrevista.
+
+Resultados: A maioria dos pacientes era do gênero masculino, com idade média de 62,35 ± 14,66 anos, casada, poucos anos de estudo, histórico familiar de doença cardíaca, hipertensão arterial, dislipidemia e sedentarismo. Os sintomas apresentados foram dor no tórax, região epigástrica ou desconforto torácico associado à dispneia e/ou sudorese súbita. A maioria dos pacientes foi transportada por ambulância e submetida a cateterismo cardíaco, seguido de angioplastia. O delta T encontrado foi 9h54min ± 18h9min. A letalidade global do estudo foi de 3,85%.
+
+Conclusão: O reconhecimento dos sinais e sintomas do IAM pelo paciente foi fator determinante para a procura de atendimento especializado e aqueles com menor delta T apresentaram melhor prognóstico.
+
+Descritores: Infarto do miocárdio. Tempo. Serviço hospitalar de emergência.
+
+ABSTRACT
+
+Objectives: To characterize the profile of patients with acute myocardial infarction (AMI) treated at the emergency department and to verify the time of arrival of each patient (∆T). Identify how the patient was transported and to correlate Delta-T (∆T) with the treatment and the prognosis of each patient.
+
+Methods: Cross-sectional survey involving 52 patients with AMI admitted to the Emergency Department of a Teaching Hospital took part in the study from July to December 2010. Data collection was performed using medical records and interviews.
+
+Results: The majority of the patients were male with a mean age of 62.35 ± 14.66 years. The participants were married, with low education levels, family history of heart diseases, arterial hypertension, dyslipidemia, and a sedentary lifestyle. The symptoms presented were pains in the chest, epigastric region, or a chest discomfort associated to dyspnea and/or sudden sweating. The majority of the patients were transported by ambulance. They were submitted to cardiac catheterization followed by angioplasty. Delta-T found was 9h45min ± 18h9min. In this study, the overall lethality was 3.85%.
+
+Conclusions: The perception of signs and symptoms of AMI by the patient was a decisive factor when seeking out specialized treatment. Those with the lowest Delta-T presented better prognosis.
+
+Descriptors: Myocardial infarction. Time. Emergency service, hospital.
+
+INTRODUÇÃO
+
+Dados epidemiológicos das principais sociedades apontam as moléstias cardiovasculares como doenças de maior mortalidade e morbidade [1,2]. Há expectativa de que no ano de 2020, 40% das mortes estarão relacionadas a elas [3]. Segundo pesquisas americanas, mais de 12 milhões de pessoas possuem alguma moléstia no coração e mais de um milhão apresenta um infarto agudo do miocárdio (IAM) por ano, o que acarreta em 466.000 mortes ligadas à doença arterial coronariana (DAC) [4]. No Brasil, as doenças cardiovasculares são responsáveis por 31% das mortes por causas conhecidas [5] e, nesse conjunto, o IAM vem preocupando a sociedade e as autoridades de saúde pública, pelo impacto causado na taxa de mortalidade e no número de internações em todo país [6,7], sendo as maiores causadoras de atendimento nos unidades de emergência [4].
+
+Dois terços das mortes súbitas por doenças do coração acontecem fora do ambiente hospitalar e apenas 20% das pessoas com relato de dor torácica aguda chegam à emergência antes de duas horas do início desses sinais [6,8]. Um dos fatores que contribui para a diminuição dessa alta mortalidade por IAM é o rápido atendimento desses pacientes após o início dos primeiros sintomas [6]. Portanto, é necessário preparação dos serviços de emergência e dos profissionais envolvidos, para que o atendimento seja direcionado e o diagnóstico seja preciso [3].
+
+Estudos indicam que, no Brasil, os pacientes com sintomas de IAM não procuram imediatamente os serviços de saúde, por não reconhecerem seus sintomas, por não haver serviços especializados de primeiros socorros e, até mesmo, por um transporte público deficitário, dificultando a chegada dessas pessoas ao hospital [8]. Esses obstáculos são desafios das autoridades de saúde pública, pois o IAM é considerado uma doença de longa duração, demandando ações, procedimentos, serviços de saúde e, consequentemente, maiores custos, e acarretando enormes prejuízos à sociedade [5,8].
+
+O conhecimento do tempo de chegada dos pacientes com sintomas de IAM ao serviço especializado, assim como a identificação das dificuldades enfrentadas pelos mesmos, pode subsidiar os profissionais de enfermagem e auxiliar na orientação aos pacientes, seus familiares e à comunidade [3,9]. Diante disso, este trabalho objetivou caracterizar o perfil das pessoas com IAM atendidas em um serviço de emergência e verificar o tempo de chegada (delta T). Identificar como o paciente foi transportado e correlacionar o delta T com o tratamento e prognóstico do mesmo.
+
+MÉTODOS
+
+Estudo transversal realizado em um hospital de ensino do noroeste paulista, que presta atendimento às diferentes especialidades médicas, e tem por finalidade a prestação de serviços de saúde, ensino e pesquisa. Os dados foram coletados na Unidade de Emergência, onde são admitidos os pacientes em situação crítica de saúde, vítimas de acidentes, politraumas, paradas cardíacas e outras que exigem atendimento imediato. A amostra foi constituída de 52 pacientes maiores de 18 anos, com diagnóstico de IAM, que estiveram internados nessa unidade, no período de julho a dezembro de 2010. Foram excluídos os pacientes com idade inferior a 18 anos, os que não concordaram em participar do estudo e aqueles com déficit ou retardo mental.
+
+O levantamento do perfil dos pacientes com IAM foi realizado por meio do prontuário hospitalar, de acordo com as seguintes variáveis sociodemográficas e clínicas: gênero, idade, estado civil, peso, altura, escolaridade, profissão, história familiar, procedência, com quem mora, tabagismo, hipertensão, diabetes, dislipidemia e exercícios físicos. Foi realizada entrevista sobre tempo de chegada (delta T), meio de transporte utilizado e tratamento e prognóstico após o diagnóstico de IAM.
+
+O projeto de pesquisa foi aprovado pelo Comitê de Ética em Pesquisa da Faculdade de Medicina de São José do Rio Preto-FAMERP - Protocolo Nº 0176/2010.
+
+Para os dados estatísticos do perfil epidemiológico foram utilizados valores percentuais, com abordagem de teste estatístico qui-quadrado, para as variáveis qualitativas, e testes de comparação univariada, para as variáveis quantitativas, de Mann-Whitney e Kruskal-Wallis, todos ao nível de significância adotado de 0,05.
+
+Abreviaturas, acrônimos e siglas:
+DAC — Doença arterial coronariana
+IAM — Infarto agudo do miocárdio
+MSE — Membro superior esquerdo
+SST — Supradesnível de segmento ST
+
+RESULTADOS
+
+Quanto ao perfil sociodemográfico dos 52 pacientes com diagnóstico de IAM, observou-se: gênero masculino (76,92%), com idade média de 62,35 ± 14,66 anos, casado (65,38%), aposentado (46,15%), com poucos anos de estudo, com sobrepeso (40%), procedentes da região de São José do Rio Preto (57,69%).
+
+No que se refere aos aspectos clínicos, a maioria dos pacientes relatou apresentar histórico familiar de doença cardíaca (57,69%), hipertensão arterial (76,92%) e sedentarismo (82,79%).
+
+Em relação aos sintomas, 31 (59,62%) pacientes apresentaram associação de dor no tórax ou desconforto torácico, dor irradiada para o membro superior esquerdo (MSE) e dispneia e/ou sudorese súbita; 19 (36,54%) apresentaram dor no tórax, MSE, região epigástrica ou desconforto torácico; e apenas dois (3,85%) apresentaram dispneia e/ou sudorese súbita.
+
+Desses, 32 (61,54%) pacientes permaneceram com os sintomas por mais de 20 minutos, o que os motivou a procurar atendimento médico, sendo que 36 (70,59%) foram transportados até o serviço com a ambulância do município e 15 (29,41%) com o carro de familiares. No que se refere à procura por outros serviços antes de serem atendidos na unidade de emergência do Hospital de Ensino, constatou-se que 47 (90,38%) primeiramente buscaram atendimento em Unidades Básicas de Saúde.
+
+Acerca da evolução desses pacientes no hospital, verificou-se que 20 (39,22%) foram submetidos a cateterismo cardíaco seguido de angioplastia, 19 (37,25%) somente a cateterismo, 7 (13,7%) a cateterismo seguido de cirurgia de revascularização do miocárdio, e cinco (9,8%) realizaram tratamento clínico. Em relação ao prognóstico, observou-se que 50 (96,2%) tiveram alta hospitalar, enquanto dois (3,8%) morreram.
+
+Levando em conta o tempo (delta T) que os pacientes com IAM demoraram a chegar nesta unidade de emergência, constatou-se média de 9h54min ± 18h9min, sendo que o delta T mínimo foi 23 minutos e o maior tempo de 96 horas.
+
+A respeito da intensidade da dor, em uma escala analógica de 0 a 10, onde zero significa nenhuma dor e 10, pior dor sentida, verificou-se média de 6,9 com mediana de 8, pressupondo que os pacientes sentiram dores de média a alta intensidade, sendo que 50% deles caracterizaram sua dor entre os escores 8 e 10.
+
+Verificou-se associação entre quadro de hipertensão e sintomas apresentados pelos pacientes, e entre DAC prévia e sintomas presentes à admissão. A maioria dos pacientes com pressão alta (69,7%) apresentou associação de todos os sintomas, enquanto os não-hipertensos (66,67%) relataram dor no tórax, MSE, região epigástrica ou desconforto torácico. Em relação às pessoas com DAC prévia, 71,43% também referiram sintomas à admissão, sugerindo que pacientes que já vivenciaram um episódio de IAM ou de outra doença arterial coronária foram capazes de identificar os sintomas de forma precoce e se dirigir rapidamente à unidade de emergência.
+
+Na associação do prognóstico em relação à automedicação, verificou-se que os pacientes que se automedicaram tiveram pior evolução quando comparados aos que não se automedicaram.
+
+Observou-se associação significativa entre o delta T e as variáveis: sintomas na admissão, evolução e automedicação. Quando comparado o delta T em relação aos sintomas, meio de transporte e presença de acompanhante ou não, verificou-se que não há associação significativa.
+
+DISCUSSÃO
+
+A maioria da população deste estudo era idosa, do gênero masculino, com poucos anos de estudo e procedente de municípios vizinhos da cidade onde se localiza a unidade de emergência do hospital de ensino, o que corrobora com pesquisa sobre escore de risco Dante Pazzanese para síndrome coronariana aguda, que observou a idade avançada associada à ocorrência de eventos coronários adversos, assim como o baixo nível de escolaridade dos pacientes.
+
+Em relação aos fatores de risco, a maioria dos pacientes apresentava sedentarismo, hipertensão arterial, história familiar e dislipidemia. Estudos sobre síndrome coronária aguda reportam que a maioria dos pacientes infartados apresentou três ou mais fatores de risco, sendo os mais predominantes: hipertensão arterial, dislipidemia e história familiar.
+
+A importância do tempo decorrido entre os primeiros sintomas do IAM até o seu atendimento em um serviço de emergência (delta T) justifica-se pela necessidade de intervenções imediatas de reperfusão, visando à restauração do fluxo sanguíneo coronário, colaborando assim para aumento da sobrevida desses pacientes.
+
+O delta T encontrado nesta pesquisa foi 9h54min ± 18h9min, muito superior ao reportado em outros estudos. Tal fato pode ser justificado pelo fato de 84,61% dos pacientes serem procedentes de outras cidades e por 26,92% deles terem se automedicado antes de procurar o serviço de saúde.
+
+De acordo com a IV Diretriz da Sociedade Brasileira de Cardiologia sobre Tratamento do IAM, alguns fatores contribuem para a demora do paciente a procurar ajuda, como: negação de que aquela dor torácica seja de procedência cardíaca; associação da dor com outras condições crônicas pré-existentes; desconhecimento dos benefícios se houver atendimento rápido; e atendimento de urgência não disponível a todos os pacientes.
+
+Reconhecer os sinais e sintomas do IAM, ou já ter passado por uma experiência anterior de doença arterial, diminui o delta T significativamente. Pacientes que acreditam que seus sintomas estejam relacionados com seu coração buscam ajuda mais rapidamente do que aqueles que atribuem seus sintomas a outras causas.
+
+Verificou-se que os pacientes que tomaram medicação por conta própria tiveram pior evolução durante a hospitalização quando comparados aos que não se automedicaram.
+
+Um dos sintomas mais característicos do IAM é a angina, decorrente da isquemia miocárdica, geralmente intensa e que pode ser aliviada com repouso e uso de nitratos. O sintoma de dor precordial está presente em 75% a 85% dos pacientes com IAM, sendo esse o fator de maior significância para essas pessoas procurarem por ajuda. Neste estudo, verificou-se que 96,15% dos pacientes apresentaram angina, com escore médio de dor de 6,9 pontos e mediana de 8 pontos.
+
+A limitação desta pesquisa foi a pequena amostra, que pode ter influenciado os resultados obtidos; entretanto, os dados representam os pacientes atendidos nessa unidade de emergência durante o período do estudo.
+
+CONCLUSÃO
+
+O perfil dos pacientes com IAM deste estudo foi de homens, idosos, casados, com poucos anos de estudo, aposentados, apresentando sobrepeso, procedentes de cidades vizinhas da unidade de emergência do hospital de ensino estudado. Quanto aos fatores de risco, a maioria dos pacientes apresentou histórico familiar de doença cardíaca, hipertensão arterial, dislipidemia e sedentarismo.
+
+O reconhecimento dos sinais e dos sintomas de IAM pelo paciente foi fator determinante para a procura de atendimento especializado. Os sintomas apresentados foram dor no tórax, região epigástrica ou desconforto torácico associado a dispneia e/ou sudorese súbita. A maioria dos pacientes foi transportada por ambulância e submetida a cateterismo cardíaco, seguido de angioplastia. O delta T encontrado foi de 9h54min ± 18h9min. A letalidade global do estudo foi de 3,85%.
+
+Verificou-se que os pacientes submetidos apenas ao cateterismo cardíaco foram os que apresentaram delta T menor (6h8min ± 13h4min), e os que realizaram cateterismo cardíaco seguido de angioplastia coronariana ou cirurgia de revascularização do miocárdio tiveram delta T maior (10h29min ± 16h42min e 23h43min ± 33h2min, respectivamente), ou seja, os pacientes com menor delta T apresentaram melhor prognóstico.
+
+---
+
+Fonte: Bastos AS, Beccaria LM, Contrin LM, Cesarino CB. Tempo de chegada do paciente com infarto agudo do miocárdio em unidade de emergência. Rev Bras Cir Cardiovasc. 2012;27(3):411-8. DOI: 10.5935/1678-9741.20120070
+Disponível em: https://www.scielo.br/j/rbccv/a/v7g7FNv4hYPyQYJCWYxrbvP/?lang=pt
+Licença: Creative Commons Attribution (CC-BY) — SciELO Brasil.
