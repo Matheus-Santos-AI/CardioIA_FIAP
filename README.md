@@ -52,7 +52,7 @@ O script que fez o tratamento do dataframe e a geração de imagens esta em anex
 
 
 ### Link para o dataset
-🔗 **Dataset completo:** [dataset/df_dados.csv](dataset/dataset_dados.csv)
+🔗 **Dataset completo:** [dataset/dataset_dados.csv](dataset/dataset_dados.csv)
 
 > O dataset contém 250 linhas e 17 colunas com variáveis clínicas de pacientes cardíacos.
 
