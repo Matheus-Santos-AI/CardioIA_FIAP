@@ -26,11 +26,7 @@ Esta é a **Fase 1** do projeto, na qual assumimos o papel de cientistas de dado
 | Klaus Lohany Barbosa de Oliveira | 566994 |
 
 ---
-Nome: Matheus de S. Santos - RM: 566901
-Nome: Ricardo José Amorin] - RM: 567312
-Nome: Victor Oliveira Fedeli Tate- RM: 566823
-Nome: Paulo Roberto Silva Amaral Ribeiro Junior - RM: 568413
-Nome: Klaus Lohany Barbosa de Oliveira - RM:
+
 
 ## 🗂️ Estrutura do Repositório
 
