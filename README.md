@@ -1,4 +1,4 @@
-# ❤️ CardioIA — Fase 1: Batimentos de Dados
+# ❤️ CardioIA
 
 > Projeto acadêmico do curso de IA — FIAP
 > Metodologia PBL (Project Based Learning)
@@ -31,19 +31,28 @@ Esta é a **Fase 1** do projeto, na qual assumimos o papel de cientistas de dado
 ## 🗂️ Estrutura do Repositório
 
 ```
-cardioia-fase1/
+CardioAI_FIAP/
 │
 ├── README.md                  
 ├── docs/                      
+│   ├── Frases_Sintomas_Faceis.txt
+│   ├── frase_risco.csv
+│   ├── resultado_dignostico.csv
+│   ├── sintomas.csv
 │   ├── texto1.txt
 │   └── texto2.txt
+├── src/
+│   ├── DADOS_CARDIO_AI.ipynb
+│   └── text_transform.ipynb
 ├── assets/                    
 │    
 └── dataset/                   
-    └── df_dados.csv
+    └── dataset_dados.csv
 ```
 
 ---
+
+## ❤️ Fase 1: Batimentos de Dados
 
 ## 📊 Parte 1 — Dados Numéricos (IoT)
 
@@ -146,6 +155,27 @@ As imagens são referentes a Ecocardiogramas (ECG) geradas com os dados do datas
 
 ## Relevância 
 A criação de um modelo computacional através de NLP , IOT, visão computacional e Redes Neurais, impacta diretamente na agilidade de pronto atendimento de pessoas com risco cardíaco, possibilitando a redução do tempo de atendimento que por muitos pode salvar vidas.  
+
+## ❤️ Fase 2: Diagnostico Automatizado
+
+### 📊 Parte 1 - Frases de Sintomas + Extração de Informações
+- Foi criado um arquivo 'Frases_Sintomas_Faceis.txt' onde possui 20 frases simulando relatos de pacientes com um ou mais tipos de sintomas que podem ou não estar relacionados com problemas cardiacos.
+- Em um arquivo CSV nomeado de 'sintomas.csv' foi criada uma estrutura de associações entre sintomas e doenças diagnosticadas, onde contem 26 linhas distribuídas em 5 tipo de classes sendo uma classe sintomas normais não relacionados a problemas cardíacos (normal) e outros 4 diagnósticos de doenças cardíacas (infarto, isquemia, distúrbio de condução e  hipertrofia).
+- Através do código 'text_transform.ipynb' feito em python cruzamos os dois arquivos criados para conseguir identificar diagnósticos nas frases do arquivo 'Frases_Sintomas_Faceis.txt' utilizando a rotulagem do arquivo 'sintomas.csv', em seguida criando um arquivo chamado 'resultado_diagnosticos.csv' onde contem a frase , os sintomas identificados , a quantidade de sintomas  e o diagnostico sugerido.
+- Tudo isso utilizando de métodos de analise de texto da ontologia para identificar palavras.     
+
+### 📊 Parte 2 - Classificador Básico de texto
+- Foi elaborado um arquivo CSV chamado 'frases_risco.csv' com 20 linhas onde foram rotuladas frases de sintomas com um nível de risco a saúde estimado.
+- Elaboramos um código python incluido no arquivo 'text_transform.ipynb' que através a aplicação do metodo TF-IDF vetorizamos as palavras do arquivo 'frases_risco.csv' e em seguida treinamos 3 modelos diferentes de classificação da biblioteca Scikit-Learn (SVC , KNN, RandomForestClassifier) testando suas respectivas acuracias , recall e f1-score.
+
+| Modelo | Acuracia |
+|------|------|
+| RandomForestClassifier | 0.5 |  
+| SVC | 1.0 |
+| KNN | 1.0 |
+
+- Em seguida foi feita uma simulação com os 3 modelos utilizando a mesma frase , onde os todos deram um bom resultado.
+- OBS: O modelo utilizando RandomForestClassifier teve um desempenho ruim para classificar sintomas de baixo risco.  
 
 
 
