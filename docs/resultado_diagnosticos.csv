@@ -1,0 +1,21 @@
+Paciente,Frase,Sintomas identificados,Quantidade de Sintomas,Diagnóstico sugerido
+1,"""Estou com dor no peito e suor frio desde cedo.""",dor no peito; suor frio,2,infarto
+2,"""Senti um aperto no peito, fiquei pálido e com a mão formigando.""",aperto no peito; mao formigando; palido,3,infarto
+3,"""Tenho suor frio e náusea há uma hora.""",nausea; suor frio,2,Infarto
+4,"""Sinto dor no ombro e pescoço, com suor frio.""",dor no ombro e pescoco; suor frio,2,infarto
+5,"""Sinto falta de ar e dor nas costas.""",dor nas costas; falta de ar,2,isquemia
+6,"""Tenho dor ao fazer esforço, mas passa quando eu descanso.""",dor ao fazer esforco,1,isquemia
+7,"""Estou com falta de ar e tenho alívio em repouso.""",alivio em repouso; falta de ar,2,isquemia
+8,"""Sinto falta de ar, dor nas costas e alívio em repouso.""",alivio em repouso; dor nas costas; falta de ar,3,isquemia
+9,"""Sinto palpitação e tontura.""",palpitacao; tontura,2,disturbio de condução
+10,"""Tenho palpitação e visão preta de repente.""",palpitacao; visao preta,2,disturbio de condução
+11,"""Meu coração fica acelerado e fico com tontura.""",tontura,1,disturbio de condução
+12,"""Tive palpitação, tontura e visão preta.""",palpitacao; tontura; visao preta,3,disturbio de condução
+13,"""Tenho hipertensão e falta de ar.""",falta de ar; hipertensao,2,hipertrofia
+14,"""Sinto falta de ar ao deitar e edema nos pés.""",edema nos pes; falta de ar; falta de ar ao deitar,3,hipertrofia
+15,"""Fico com falta de ar ao se esforçar e inchaço na perna.""",falta de ar; falta de ar ao se esforcar; inchaco na perna,3,hipertrofia
+16,"""Tenho falta de ar ao se esforçar e falta de ar ao deitar.""",falta de ar; falta de ar ao deitar; falta de ar ao se esforcar,3,hipertrofia
+17,"""Estou com dor de barriga e febre.""",dor de barriga; febre,2,normal
+18,"""Tenho dor no abdomem e muitos gases.""",dor no abdomem; gases,2,normal
+19,"""Sinto tontura e estou com glicemia baixa.""",glicemia baixa; tontura,2,normal
+20,"""Bati o peito e sinto dor quando respiro.""",bati o peito; dor quando respiro,2,normal

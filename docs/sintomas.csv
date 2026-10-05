@@ -1,0 +1,27 @@
+sintomas_1,sintomas_2,doenca_associada,sigla_doenca
+"""dor no ombro e pescoço""","""suor frio""",infarto,MI
+"""falta de ar ao se esforçar""","""suor frio""",Infarto,MI
+"""suor em repouso""","""dor no peito""",infarto,MI
+"""palido""","""aperto no peito""",infarto,MI
+"""mão formigando""","""aperto no peito""",infarto,MI
+"""suor frio""","""nausea""",Infarto,MI
+"""dor no peito""","""nausea""",Infarto,MI
+"""dor no peito""","""suor frio""",Infarto,MI
+"""falta de ar""","""dor nas costas""",isquemia,STTC
+"""falta de ar""","""alivio em repouso""",isquemia,STTC
+"""dor ao fazer esforço""","""falta de ar""",isquemia,STTC
+"""dor ao fazer esforço""","""alivio em repouso""",isquemia,STTC
+"""tontura""","""palpitação""",disturbio de condução,CD
+"""palpitação""","""visão preta""",disturbio de condução,CD
+"""coração acelerado""","""tontura""",disturbio de condução,CD
+"""coração acelerado""","""tontura""",disturbio de condução,CD
+"""hipertensão""","""falta de ar""",hipertrofia,HYP
+"""falta de ar ao deitar""","""edema nos pés""",hipertrofia,HYP
+"""falta de ar ao se esforçar""","""inchaço na perna""",hipertrofia,HYP
+"""falta de ar ao se esforçar""","""falta de ar ao deitar""",hipertrofia,HYP
+"""dor de barriga""","""febre""",normal,NORM
+"""dor no abdomem""","""gases""",normal,NORM
+"""falta de ar quando corro""","""anemia""",normal,NORM
+"""tontura""","""glicemia baixa""",normal,NORM
+"""bati o peito""","""dor quando respiro""",normal,NORM
+"""cabeça latejando""","""hipertensão""",normal,NORM
