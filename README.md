@@ -17,8 +17,8 @@ Esta é a **Fase 1** do projeto, na qual assumimos o papel de cientistas de dado
 
 ## 👥 Integrantes do Grupo
 
-| Nome | RM | Turma |
-|------|----|-------|
+| Nome | RM |
+|------|----|
 | Matheus Santos | 566901 | 
 | Ricardo José Amorin | 567312 |
 | Victor Oliveira Fedeli Tate | 566823 |
@@ -26,7 +26,7 @@ Esta é a **Fase 1** do projeto, na qual assumimos o papel de cientistas de dado
 | Klaus Lohany Barbosa de Oliveira | 566994 |
 
 ---
-🎬 Vídeos de cada fase:
+# 🎬 Vídeos de cada fase:
 - Fase 2 -Diagnostico Automatizado ( https://youtu.be/igTSt70JQWE )
 
 ---
