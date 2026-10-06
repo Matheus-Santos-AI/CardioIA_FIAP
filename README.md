@@ -26,6 +26,10 @@ Esta é a **Fase 1** do projeto, na qual assumimos o papel de cientistas de dado
 | Klaus Lohany Barbosa de Oliveira | 566994 |
 
 ---
+🎬 Vídeos de cada fase:
+- Fase 2 -Diagnostico Automatizado ( https://youtu.be/igTSt70JQWE )
+
+---
 
 
 ## 🗂️ Estrutura do Repositório
